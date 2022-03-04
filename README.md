@@ -6,15 +6,22 @@
 
 网站地址: [http://echarts.zhangmuchen.top](http://echarts.zhangmuchen.top)
 
-github地址:[github](https://github.com/zhangxiang0316)
+github地址:[github](https://github.com/zhangxiang0316/echartsDemo)
 
 有什么问题可以github上联系我
 
 
-# 新增属性信息，点击属性名称，进入echarts官网查看属性信息
+
+## 2022-3-4 新增添加新图表功能,新增查看属性功能，点击跳转Echarts 官网查看属性相关信息
+#### 暂时没有添加登录功能，没有办法按照个人信息
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/b9626b1349af4204b961d00a186393c4.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA6L2u5Zue5Y2D6L29,size_20,color_FFFFFF,t_70,g_se,x_16#pic_center)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/f03061990c594353bb72600129c8fa8f.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA6L2u5Zue5Y2D6L29,size_20,color_FFFFFF,t_70,g_se,x_16#pic_center)
 
 
 
+
+ 
 
 
 
