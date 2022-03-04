@@ -11,6 +11,9 @@ github地址:[github](https://github.com/zhangxiang0316)
 有什么问题可以github上联系我
 
 
+# 新增属性信息，点击属性名称，进入echarts官网查看属性信息
+
+
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/c98659d749cd44afba7efa6b75bb7cf1.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA6L2u5Zue5Y2D6L29,size_20,color_FFFFFF,t_70,g_se,x_16#pic_center)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/e6f595bee85a4e72b74e7f9cab259c9f.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA6L2u5Zue5Y2D6L29,size_20,color_FFFFFF,t_70,g_se,x_16#pic_center)
