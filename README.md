@@ -19,6 +19,8 @@ github地址:[github](https://github.com/zhangxiang0316/echartsDemo)
 
 - [x] 2022-3-7 新增图表支持使用网络js 或者项目中原有的js 
 
+- [x] 2022-3-8 添加收藏功能
+
 
 - [ ] 新增图表暂未实现外部脚本导入
 
