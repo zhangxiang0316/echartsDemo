@@ -25,6 +25,8 @@ github地址:[github](https://github.com/zhangxiang0316/echartsDemo)
 
 - [x] 2022-3-9 对于显示有问题的图表，添加iframe 展示方式，点击右上角切换模式查看
 
+- [x] 2022-3-31 修改部分图片不展示问题，取消图片懒加载
+
 
 - [ ] 新增图表暂未实现外部脚本导入
 
