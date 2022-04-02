@@ -27,6 +27,8 @@ github地址:[github](https://github.com/zhangxiang0316/echartsDemo)
 
 - [x] 2022-3-31 修改部分图片不展示问题，取消图片懒加载
 
+- [x] 2022-4-2  编辑器添加echarts 属性智能提示
+
 
 - [ ] 新增图表暂未实现外部脚本导入
 
