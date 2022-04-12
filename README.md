@@ -32,6 +32,8 @@ github地址:[github](https://github.com/zhangxiang0316/echartsDemo)
 
 - [x] 2022-4-11 修改首页ui
 
+- [x] 2022-4-12 代码编辑添加防抖，列表页面添加页码指示器
+
 
 
 
