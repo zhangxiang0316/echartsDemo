@@ -34,6 +34,8 @@ github地址:[github](https://github.com/zhangxiang0316/echartsDemo)
 
 - [x] 2022-4-12 代码编辑添加防抖，列表页面添加页码指示器
 
+- [x] 2022-4-13 新增图表添加切换echarts版本 （问题，切换版本后页面刷新，代码内容复制后没办法粘贴到新页面）
+
 
 
 
