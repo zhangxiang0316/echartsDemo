@@ -38,6 +38,8 @@ github地址:[github](https://github.com/zhangxiang0316/echartsDemo)
 
 - [x] 2022-6-28 个人新增表格添加删除功能
 
+- [x] 2022-6-29 个人保存图表时添加图片更新
+
 
 
 
